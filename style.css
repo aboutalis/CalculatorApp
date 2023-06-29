@@ -27,6 +27,7 @@ h1 {
   margin-bottom: 75px;
   margin-top: 25px;
   font-size: 500%;
+  text-align: center;
   color: antiquewhite;
 }
 
@@ -52,6 +53,7 @@ h1 {
   font-size: 35px;
   text-align: right;
   cursor: pointer;
+  overflow: hidden;
 }
 
 #operation {

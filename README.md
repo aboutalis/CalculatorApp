@@ -12,7 +12,7 @@ Technologies Used
 
 The project is implemented using the following technologies:
 
-1) HTML (Hypertext Markup Language): Used for creating the structure and layout of the calculator interface. It consists of a <h1> heading, a <div> container with the class "calculator" that encompasses the calculator elements, and a <footer> section for displaying the copyright information.
+1) HTML (Hypertext Markup Language): Used for creating the structure and layout of the calculator interface. It consists of a "<h1>" heading, a <div> container with the class "calculator" that encompasses the calculator elements, and a <footer> section for displaying the copyright information.
 2) CSS (Cascading Style Sheets): Used for styling the calculator interface and making it visually appealing. It includes styles for the overall layout, buttons, output area, and responsive design for different devices.
 3) JavaScript: Used for adding interactivity and implementing the calculator's functionality. Here are the key components and features:
 

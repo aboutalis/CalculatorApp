@@ -39,15 +39,11 @@ The project is implemented using the following technologies:
 Overall, the project provides a user-friendly and functional scientific calculator that can perform a wide range of mathematical calculations. Users can input expressions, toggle between simple and scientific modes, and obtain accurate results displayed in the output area.
 
 
-
-![Screenshot_3-removebg-preview](https://github.com/aboutalis/CalculatorApp/assets/132292767/5917f30f-b66d-458c-9d98-709884b3037a)
-
-
-![Screenshot_2-removebg-preview](https://github.com/aboutalis/CalculatorApp/assets/132292767/3b4ff55e-a2c3-4313-89d5-0303bfdc5af3)
 ### Simple Calculator
 <p align="center">
   <img src="https://github.com/aboutalis/CalculatorApp/assets/132292767/5917f30f-b66d-458c-9d98-709884b3037a" alt="Screenshot_3-removebg-preview">
 </p>
+
 ### Advanced Calculator
 <p align="center">
   <img src="https://github.com/aboutalis/CalculatorApp/assets/132292767/3b4ff55e-a2c3-4313-89d5-0303bfdc5af3" alt="Screenshot_2-removebg-preview">
